@@ -63,14 +63,17 @@ Berikut contohnya:
 
 ![CSS Syntax](https://www.w3schools.com/css/img_selector.gif)
 
-Di dalam CSS ada yang namannya FlexBox. Flexbox adalah suatu cara untuk mengatur layout, posisi dadn tampilan agar element child pada suatu container dapat beradaptasi dengan parent-nya. Berikut contoh dari flexbox :  
+Di dalam CSS ada yang namannya FlexBox. Flexbox adalah suatu cara untuk mengatur layout, posisi dan tampilan agar element child pada suatu container dapat beradaptasi dengan parent-nya. Berikut contoh dari flexbox :  
 
 ![FlexBox](https://arquivo.devmedia.com.br/artigos/Fernando_gaspar/flex/justify-content.png)
 
 ## Algoritma dan Struktur Data
-Algoritma merupakan step-step atau langkah-langkah yang diperlukan untuk mencapai sesuatu atau menyelesaikan sebuah masalah. Sedangkan Struktur Data merupakan cara untuk menyimpaan dan mengatur data agar terstruktur pada suatu sistem atau database sehingga mudah untuk diakses.   
-
-
+Algoritma merupakan step-step atau langkah-langkah yang diperlukan untuk mencapai sesuatu atau menyelesaikan sebuah masalah. Sedangkan Struktur Data merupakan cara untuk menyimpaan dan mengatur data agar terstruktur pada suatu sistem atau database sehingga mudah untuk diakses. Berikut adalah contoh dari algoritma yang bisa ditemui dalam kehidupan sehari-hari: 
+1. Apakah hari ini akan turun hujan?.
+2. Jika tidak, maka saya tidak perlu membawa payung.
+3. Jika iya, maka saya harus mencari payung.
+4. Jika sudah menemukan payung, maka bawa payung.
+5. Jika payung tidak ditemukan, pastikan kembali apakah masih hujan atau tidak, dan kembali ke poin 2 dan 3.
 
 ## JavaScript
 Javascript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar menjadi lebih interaktif dan dinamis. Dengan Javascript kita tidak hanya dapat membuat website menjadi lebih menarik, namun juga kita dapat memanfaatkan javascript untuk membuat tools, atau bahkan game di dalam web. Tag yang digunakan untuk menggunakan Javascript yakni dengan tag < script> dengan penampatan tag tersebut berada di dalam tag < body> HTML. Untuk mengecek apakah code javascript sudah benar atau belum, dengan cara klik kanan pada halaman dan inspect atau dengan menekan menekan F12. Lalu kita bisa melihatnya di console.  
@@ -92,7 +95,12 @@ Di dalam javascript juga memiliki operator, berikut beberap operator di dalam ja
 ### Operator Logika
 ![Operator-Logika](./Operator-Logika.PNG)  
 
-## Git
+## Unix Command Line & Git and Github
+Shell merupakan user interface yang memiliki tugas untuk memproses segala peritah yang diinputkan melalui CLI.
+CLI atau Comman Line Interface adalah sebuah program yang membuat user dapat menginputkan perintah dalam bentuk teks dan memberikan instruksi pada sebuah komputer untuk mengerjakan tugas-tugas yang di instruksikan.
+File system structures adalah struktur logika yang digunakan untuk mengatur akses data yang ada di dalam disk.
+Git adalah singkatan dari Group Inclusive Tour merupakan sebuah software yang memiliki tugas untuk mencatat perubahan seluruh file pada suatu project. Sedangkan Github adalah sebuah layanan cloud yang berguna untuk menyimpan dan mengelola project-project yang dinamakan dengan repository.
+
 
 Source :  
 https://www.w3schools.com/  
