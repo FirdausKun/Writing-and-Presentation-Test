@@ -22,12 +22,13 @@ console.log(tesAsyncAwait());
 Git adalah aplikasi yang dapat melacak setiap perubahan yang terjadi pada suatu folder atau file. Git biasanya digunakan oleh para programmer sebagai tempat penyimpanan file pemrograman mereka, karena lebih efektif.  
 Github adalah sebuah layanan cloud yang berguna untuk menyimpan dan mengelola project-project yang dinamakan dengan repository.
 ### Membuat branch
-Menambahkan branch pada github bisa melalui webnya dengan meng-klik dibagian branch pada repository yang ingin di tambahkan branch baru, contohnya seperti pada gambar berikut:
-![Git-branch](/4th-Week/git-branch.PNG)
+Menambahkan branch pada github bisa melalui webnya dengan meng-klik dibagian branch pada repository yang ingin di tambahkan branch baru, contohnya seperti pada gambar berikut:  
+![Git-branch](/4th-Week/git-branch.PNG)  
 ### Cloning di github
-Untuk mendownload atau memindahkan suatu repository dari remote menuju lokal ktia bisa menggunakan yang namanya git clone dengan cara meng-klik tombol "code" pada repository yang ingin di clone atau download lalu copy link dari repository tersebut, contohnya seperti berikut:
-![Git-clone01](/4th-Week/git-clone1.PNG)
-lalu setelah itu bisa dilanjutkan dengan membuka terminal gitbash pada folder atau tempat kita akan mendownload repository tersebut, contohnya seperti pada gambar berikut:
+Untuk mendownload atau memindahkan suatu repository dari remote menuju lokal ktia bisa menggunakan yang namanya git clone dengan cara meng-klik tombol "code" pada repository yang ingin di clone atau download lalu copy link dari repository tersebut, contohnya seperti berikut:  
+![Git-clone01](/4th-Week/git-clone1.PNG)  
+
+Lalu setelah itu bisa dilanjutkan dengan membuka terminal gitbash pada folder atau tempat kita akan mendownload repository tersebut, contohnya seperti pada gambar berikut:    
 ![Git-clone02](/4th-Week/git-clone02.PNG)
 ### Merge pada github
 Ketika kita ingin menggabungkan dua branch kita bisa menggunakan git merge.     
