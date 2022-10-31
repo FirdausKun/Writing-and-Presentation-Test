@@ -18,7 +18,7 @@ JSX adalah extension syntax JavaScript yang memungkinkan Anda untuk memodifikasi
 * ### JSX Rules
     Setiap JSX hanya dapat memiliki satu parent element.
 * ### The Virtual DOM
-    Virtual DOM adalah salinan dari real DOM yang akan diupdate.
+    Virtual DOM adalah salinan dari real DOM yang akan diupdate.  
 ![Virtual-DOM](Virtual_DOM.png)  
 * ### class dan className
     Pada JSX attribut class di tag element HTML harus menggunakan className
